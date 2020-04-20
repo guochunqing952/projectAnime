@@ -1,0 +1,22 @@
+.searchBar {
+  width: 600px;
+  height: 30px;
+  margin: 10px 200px;
+  font-size: 15px;
+}
+
+.searchBar select {
+  margin-right: 30px;
+}
+
+.searchBar input {
+  margin-right: 30px;
+  width: 280px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.searchBar button {
+  padding: 5px 10px;
+  border-radius: 5px;
+}

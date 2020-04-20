@@ -1,0 +1,35 @@
+.topHeader span {
+  display: inline-block;
+  width: 700px;
+  text-align: center;
+  color: black;
+}
+
+.topHeader .btn {
+  float: right;
+  width: 200px;
+  right: 2px;
+  text-align: right;
+}
+
+.topHeader button {
+  display: inline-block;
+  margin-right: 20px;
+  text-decoration: none;
+  padding: 5px 5px;
+  border-radius: 5px;
+}
+
+
+.topHeader button a {
+  text-decoration: none;
+}
+
+.topHeader .picture {
+  position: absolute;
+  top: 50px;
+  width: 100%;
+  height: 50px;
+  background-image: url(https://tse1.mm.bing.net/th?id=OIP.3EVJCWI39gXCNbPP7qcb0gHaEK&pid=Api&P=0&w=287&h=162);
+  background-size: 20% 50px;
+}

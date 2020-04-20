@@ -1,0 +1,9 @@
+.kindWrapper {
+  text-align: center;
+}
+
+.kindWrapper a {
+  display: inline-block;
+  margin-right: 100px;
+  text-decoration: none;
+}

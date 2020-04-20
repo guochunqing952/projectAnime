@@ -1,0 +1,46 @@
+.welcome {
+  position: absolute;
+  height: 400px;
+  width: 400px;
+  left: calc(50% - 200px);
+  top: calc(50% - 200px);
+  text-align: center;
+  border: 10px solid #e1e7f5;
+}
+
+.welcome input {
+  width: 200px;
+  height: 30px;
+  margin-left: 10px;
+}
+
+.loginTitle {
+  margin-top: 30px;
+}
+
+.welcome div {
+  margin-bottom: 25px;
+}
+
+.welcome span {
+  margin-bottom: 10px;
+}
+
+.welcome button {
+  text-align: center;
+  margin: 10px 0px;
+  font-size: 15px;
+  margin-bottom: 20px;
+  padding: 6px 70px;
+  text-decoration: none;
+}
+
+.welcome .btn1 {
+  background: #4165ba;
+  color: white;
+}
+
+.welcome .btn2 {
+  background: #e1e7f5;
+  color: #2e51a2;
+}

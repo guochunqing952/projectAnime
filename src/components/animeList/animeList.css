@@ -1,0 +1,17 @@
+.tab {
+  width: 100%;
+  box-sizing: border-box;
+  text-align: center;
+  border-collapse: collapse;
+  margin: 10px 0px;
+}
+
+.tab td,
+.tab th {
+  border: 1px solid #ccc;
+}
+
+.tab img {
+  width: 80px;
+  height: 80px;
+}
